@@ -9,7 +9,7 @@
 </h3>
 
 <p align="center">
-  TikTok Clone 2024
+  Deezer Clone 2024
 </p>
 <br>
 <div align="center">
