@@ -26,6 +26,4 @@
 - [**Tailwind CSS**](https://tailwindcss.com/) - A utility-first CSS framework for rapidly building custom designs.
 - [**Pinia**](https://pinia.esm.dev/) - Intuitive and type-safe store for Vue 3, providing state management.
 
-##  License
 
-[MIT](#) - Created by [**Franco Sbaffi**](https://www.linkedin.com/in/franco-sbaffi/).
